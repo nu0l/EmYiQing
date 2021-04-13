@@ -1,5 +1,7 @@
 ## Hello GitHub Fans 👋
 
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=EmYiQing)]()
+
 ### About Me
 - 华北电力大学（保定）软件工程大三在读
 - 字节跳动（ByteDance）安全研发工程师，参与开发DDoS防御系统和云防火墙
