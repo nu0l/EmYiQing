@@ -10,4 +10,4 @@
 
 ### 关于我
 - [个人博客](https://xushao.ltd/)
-- 邮箱：xuyiqing.ncepu@bytedance.com
+- 邮箱：2023503307@qq.com（可内推）
