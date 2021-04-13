@@ -1,7 +1,7 @@
 ## Hello GitHub Fans 👋
 
 ### About Me
-- 华北电力大学（保定）-软件工程-大三-在读
+- 华北电力大学（保定）软件工程大三在读
 - 字节跳动（ByteDance）安全研发工程师，参与DDoS防御系统的开发
 - 前长亭科技（Chaitin Tech）安全工程师，参与xray社区工具的开发
 - 国家注册渗透测试工程师（CISP-PTE）
