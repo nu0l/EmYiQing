@@ -4,8 +4,8 @@
 
 ### About Me
 - North China Electric Power University
-- ByteDance Security R&D Engineer
-- Chaitin Technology Safety Engineer
+- Former ByteDance Security R&D Engineer
+- Former Chaitin Technology Safety Engineer
 - Certified Information Security Professional – Penetration Test Engineer
 - Huawei Certified ICT Professional - Security
 
