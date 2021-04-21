@@ -4,11 +4,11 @@
 
 ### About Me
 - North China Electric Power University
-- Former ByteDance Security R&D Engineer
-- Former Chaitin Technology Safety Engineer
+- ByteDance Security R&D Engineer
+- Chaitin Technology Safety Engineer
 - Certified Information Security Professional – Penetration Test Engineer
 - Huawei Certified ICT Professional - Security
 
 ### 关于我
-- [个人博客](https://xushao.ltd/)
-- 邮箱：2023503307@qq.com（可内推）
+- [My Blog](https://xushao.ltd/)
+- My Email：2023503307@qq.com
