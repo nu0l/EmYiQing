@@ -8,7 +8,5 @@
 - Chaitin Technology Safety Engineer
 - Certified Information Security Professional – Penetration Test Engineer
 - Huawei Certified ICT Professional - Security
-
-### 关于我
 - [My Blog](https://xushao.ltd/)
 - My Email：2023503307@qq.com
