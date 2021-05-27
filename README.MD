@@ -4,6 +4,6 @@
 - 注册渗透测试工程师（CISP-PTE）
 - 华为认证高级网络安全工程师（HCIP-Security）
 - [我的博客](https://xushao.ltd/)
-- 我的油箱：emyiqing@gmail.com
+- 邮箱：emyiqing@gmail.com
 
 [![Data](https://github-readme-stats.vercel.app/api?username=EmYiQing)]()
