@@ -1,5 +1,5 @@
 ### I am 4ra1n
-- 还没毕业的大四学生
-- [我的博客](https://xushao.ltd/)
+- 前长亭科技安全工程师
+- [我的博客](https://www.anquanke.com/member/160459)
 
 [![Data](https://github-readme-stats.vercel.app/api?username=EmYiQing)]()
