@@ -1,5 +1,5 @@
 ### I am 4ra1n
-- 喜欢安全技术的程序员
+- 略懂web安全
 - [安全客](https://www.anquanke.com/member/160459)
 - [博客](https://xushao.ltd)
 
