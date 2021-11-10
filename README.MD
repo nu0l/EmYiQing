@@ -2,7 +2,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/EmYiQing?style=social)   ![GitHub User's stars](https://img.shields.io/github/stars/EmYiQing?style=social)
 ### 简介
 - 普通本科在读
-- 长亭实习崽，洞鉴（X-Ray）部门
+- 前长亭实习崽，洞鉴（X-Ray）部门
 - 前字节跳动实习崽，基础安全部门
 - 主要在做Java安全研究与代码审计
 - 擅长安全开发，略懂静态分析
