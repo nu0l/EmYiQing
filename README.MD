@@ -1,6 +1,6 @@
 ### I am 4ra1n
-![GitHub followers](https://img.shields.io/github/followers/EmYiQing?style=social)   ![GitHub User's stars](https://img.shields.io/github/stars/EmYiQing?style=social)   
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=4ra1n.4ra1n)
+![GitHub followers](https://img.shields.io/github/followers/EmYiQing?style=social)   ![GitHub User's stars](https://img.shields.io/github/stars/EmYiQing?style=social)   
 ### 简介
 - 普通本科在读
 - 前长亭实习崽，洞鉴（X-Ray）部门
