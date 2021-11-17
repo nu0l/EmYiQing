@@ -11,4 +11,6 @@
 - 高危通用CNVD: CNVD-2020-64524; CNVD-2020-64525; CNVD-2021-01865; CNVD-2021-15965
 - 水过几个CVE：CVE-2021-31649; CVE-2021-33346; CVE-2021-33347; CVE-2021-33348
 
+欢迎大佬们加wx学习交流：LTRyYTFuLQ==
+
 [![Data](https://github-readme-stats.vercel.app/api?username=EmYiQing)]()
