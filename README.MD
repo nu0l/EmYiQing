@@ -3,10 +3,10 @@
 ![GitHub followers](https://img.shields.io/github/followers/EmYiQing?style=social)   ![GitHub User's stars](https://img.shields.io/github/stars/EmYiQing?style=social)   
 ### 简介
 - 普通本科在读
-- 前长亭实习崽，洞鉴（X-Ray）部门
-- 前字节跳动实习崽，基础安全部门
-- 略懂Java安全，代码审计和静态分析
-- 不擅长渗透测试和漏洞挖掘
+- 曾在长亭科技洞鉴（X-Ray）部门实习
+- 曾在字节跳动基础安全部门实习
+- 略懂Java安全，了解代码审计和静态分析
+- 不擅长渗透测试和二进制，不懂漏洞挖掘
 
 ### CNVD 
 - CNVD-2020-64524: 某管理平台高危通用文件上传
