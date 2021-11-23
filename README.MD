@@ -2,7 +2,7 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=4ra1n.4ra1n)
 ![GitHub followers](https://img.shields.io/github/followers/EmYiQing?style=social)   ![GitHub User's stars](https://img.shields.io/github/stars/EmYiQing?style=social)   
 ### 简介
-- 普通本科在读
+- 普通本科在读（找不到工作呜呜）
 - 曾在长亭科技洞鉴（X-Ray）部门实习
 - 曾在字节跳动基础安全部门实习
 - 略懂Java安全和安全开发
