@@ -6,7 +6,7 @@
 - 曾在长亭科技和字节跳动实习
 - 略懂Java安全和安全开发
 - 挖过一些高危通用CNVD，水过几个CVE
-- 希望能找到工作
+- 注册渗透测试工程师（CISP-PTE）
 - 我的博客：[https://4ra1n.love/](https://4ra1n.love/)
 
 [![Data](https://github-readme-stats.vercel.app/api?username=EmYiQing)]()
