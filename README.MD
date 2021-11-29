@@ -9,4 +9,6 @@
 - 注册渗透测试工程师（CISP-PTE）
 - 我的博客：[https://4ra1n.love/](https://4ra1n.love/)
 
+**若用本人项目去进行：HW演练/红蓝对抗/APT/黑产/恶意行为/违法行为/割韭菜 等行为，本人概不负责，也与本人无关**
+
 [![Data](https://github-readme-stats.vercel.app/api?username=EmYiQing)]()
