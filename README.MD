@@ -9,7 +9,7 @@
 - 注册渗透测试工程师（CISP-PTE）
 - 我的博客：[https://4ra1n.love/](https://4ra1n.love/)
 - 带我学Java安全的大佬：[天下大木头](https://github.com/KpLi0rn)
-- 我的偶像：[phith0n](https://github.com/phith0n)和[threedr3am](https://github.com/threedr3am)
+- 我的偶像：[phith0n](https://github.com/phith0n)和[threedr3am](https://github.com/threedr3am)和[chybeta](https://github.com/chybeta)
 
 **若用本人项目去进行：HW演练/红蓝对抗/APT/黑产/恶意行为/违法行为/割韭菜 等行为，本人概不负责，也与本人无关**
 
